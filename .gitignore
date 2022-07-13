@@ -4,6 +4,8 @@
 
 # Session Data files
 .RData
+.rds
+.xlsx
 
 # User-specific files
 .Ruserdata
@@ -19,6 +21,7 @@
 
 # RStudio files
 .Rproj.user/
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -37,3 +40,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Others
+/articles
+/old
+/othercode
