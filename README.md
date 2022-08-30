@@ -6,6 +6,9 @@
 
 [한국 알(R) 사용자회](https://github.com/bit2r)가 이 책을 기반으로 더 나은 [텍스트마이닝 교재](https://github.com/bit2r/book_tm)를 만들기 위해 작업중입니다. 
 
+- 전자책 웹사이트: https://r2bit.com/book_tm/
+- 전자책 코드: https://github.com/bit2r/book_tm
+
 2022.7.13.
 
 
